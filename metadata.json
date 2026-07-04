@@ -1,0 +1,8 @@
+{
+  "name": "Endrick Clicker",
+  "description": "Um divertido jogo de clicker do Endrick marcando gols pela Seleção Brasileira com melhorias e animações incríveis!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
